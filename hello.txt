@@ -15,4 +15,4 @@ Hello World!Hello git!
 Hello World!Hello git!
 Hello World!Hello git!
 Hello World!Hello git!
-Hello World!Hello git!
+Hello World!Hello git!hot-fix commit
